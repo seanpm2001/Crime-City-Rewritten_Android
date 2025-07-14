@@ -1,0 +1,8 @@
+
+<TextureAtlas width="128" height="64">
+	<Image name="Hair_E" left="1" top="1" right="25" bottom="37"/>
+	<Image name="Hair_SE" left="26" top="1" right="48" bottom="28"/>
+	<Image name="Hair_N" left="49" top="1" right="70" bottom="41"/>
+	<Image name="Hair_NE" left="71" top="1" right="91" bottom="41"/>
+	<Image name="Hair_S" left="26" top="29" right="45" bottom="55"/>
+</TextureAtlas>

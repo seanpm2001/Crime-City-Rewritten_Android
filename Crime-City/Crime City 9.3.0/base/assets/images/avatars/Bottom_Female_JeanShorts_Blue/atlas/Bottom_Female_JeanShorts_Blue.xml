@@ -1,0 +1,18 @@
+
+<TextureAtlas width="64" height="64">
+	<Image name="Hip_N" left="1" top="1" right="21" bottom="15"/>
+	<Image name="Hip_S" left="22" top="1" right="42" bottom="12"/>
+	<Image name="Hip_NE" left="1" top="16" right="20" bottom="32"/>
+	<Image name="Hip_SE" left="43" top="1" right="61" bottom="13"/>
+	<Image name="Hip_E" left="1" top="33" right="17" bottom="45"/>
+	<Image name="RightThigh_E" left="1" top="46" right="15" bottom="58"/>
+	<Image name="RightThigh_SE" left="21" top="16" right="34" bottom="29"/>
+	<Image name="LeftThigh_E" left="35" top="16" right="48" bottom="28"/>
+	<Image name="LeftThigh_SE" left="49" top="16" right="61" bottom="29"/>
+	<Image name="RightThigh_NE" left="21" top="30" right="33" bottom="43"/>
+	<Image name="LeftThigh_S" left="21" top="44" right="32" bottom="60"/>
+	<Image name="RightThigh_N" left="34" top="30" right="45" bottom="46"/>
+	<Image name="LeftThigh_N" left="34" top="47" right="45" bottom="59"/>
+	<Image name="RightThigh_S" left="46" top="30" right="57" bottom="42"/>
+	<Image name="LeftThigh_NE" left="46" top="43" right="57" bottom="53"/>
+</TextureAtlas>
