@@ -1,0 +1,8 @@
+
+<TextureAtlas width="128" height="64">
+	<Image name="Torso_NE" left="1" top="1" right="23" bottom="32"/>
+	<Image name="Torso_SE" left="24" top="1" right="45" bottom="34"/>
+	<Image name="Torso_E" left="46" top="1" right="65" bottom="33"/>
+	<Image name="Torso_S" left="1" top="33" right="19" bottom="63"/>
+	<Image name="Torso_N" left="24" top="35" right="42" bottom="63"/>
+</TextureAtlas>

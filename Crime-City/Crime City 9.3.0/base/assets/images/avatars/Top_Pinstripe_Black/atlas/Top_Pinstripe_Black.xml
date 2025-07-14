@@ -1,0 +1,28 @@
+
+<TextureAtlas width="128" height="128">
+	<Image name="Torso_N" left="1" top="1" right="43" bottom="41"/>
+	<Image name="Torso_S" left="1" top="42" right="39" bottom="83"/>
+	<Image name="Torso_SE" left="40" top="42" right="72" bottom="86"/>
+	<Image name="Torso_NE" left="44" top="1" right="73" bottom="40"/>
+	<Image name="Torso_E" left="74" top="1" right="96" bottom="40"/>
+	<Image name="RightShoulder_SE" left="97" top="1" right="116" bottom="25"/>
+	<Image name="RightShoulder_E" left="1" top="84" right="19" bottom="115"/>
+	<Image name="LeftShoulder_NE" left="20" top="84" right="37" bottom="105"/>
+	<Image name="RightShoulder_NE" left="40" top="87" right="56" bottom="114"/>
+	<Image name="RightArm_E" left="20" top="106" right="36" bottom="125"/>
+	<Image name="RightShoulder_N" left="57" top="87" right="71" bottom="115"/>
+	<Image name="LeftShoulder_S" left="73" top="42" right="87" bottom="68"/>
+	<Image name="LeftShoulder_E" left="88" top="42" right="102" bottom="63"/>
+	<Image name="RightArm_NE" left="103" top="42" right="117" bottom="58"/>
+	<Image name="LeftShoulder_N" left="73" top="69" right="86" bottom="93"/>
+	<Image name="LeftArm_SE" left="73" top="94" right="86" bottom="111"/>
+	<Image name="RightShoulder_S" left="87" top="69" right="98" bottom="99"/>
+	<Image name="RightArm_N" left="87" top="100" right="98" bottom="120"/>
+	<Image name="LeftArm_S" left="97" top="26" right="108" bottom="40"/>
+	<Image name="LeftShoulder_SE" left="117" top="1" right="127" bottom="23"/>
+	<Image name="LeftArm_N" left="99" top="69" right="109" bottom="90"/>
+	<Image name="RightArm_S" left="109" top="26" right="119" bottom="41"/>
+	<Image name="RightArm_SE" left="73" top="112" right="83" bottom="127"/>
+	<Image name="LeftArm_E" left="110" top="69" right="119" bottom="86"/>
+	<Image name="LeftArm_NE" left="118" top="42" right="127" bottom="57"/>
+</TextureAtlas>
