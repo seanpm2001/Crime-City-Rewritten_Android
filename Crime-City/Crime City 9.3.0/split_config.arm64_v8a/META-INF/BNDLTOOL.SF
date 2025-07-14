@@ -1,0 +1,14 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: plCYnBwm6O6Ns5XVqoigfKDav6s=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: Izvyxfq7ycXd0P73tW1XGflf+60=
+
+Name: lib/arm64-v8a/libbreakpad.so
+SHA1-Digest: GeWJBMQx+5HW+SvV2eBjx5VM6b4=
+
+Name: lib/arm64-v8a/libsqlcipher.so
+SHA1-Digest: VqL8rIXNXM0vNF5fCRciK1RA9bs=
+

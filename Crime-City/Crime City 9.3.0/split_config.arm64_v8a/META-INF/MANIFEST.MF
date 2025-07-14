@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: jn2BWegMIxa5GTvkXxFdjVqeRKA=
+
+Name: lib/arm64-v8a/libbreakpad.so
+SHA1-Digest: SCWQaXtV+mGaxpzE26mYw8iQQHw=
+
+Name: lib/arm64-v8a/libsqlcipher.so
+SHA1-Digest: r7arsVUoc2A/gyKzyFMI92PzsjI=
+
