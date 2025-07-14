@@ -1,0 +1,8 @@
+
+<TextureAtlas width="128" height="128">
+	<Image name="Shotgun_E" left="1" top="1" right="74" bottom="18"/>
+	<Image name="Machinegun" left="1" top="19" right="67" bottom="48"/>
+	<Image name="Gun_E" left="75" top="1" right="103" bottom="14"/>
+	<Image name="Knife_E" left="1" top="49" right="24" bottom="83"/>
+	<Image name="Bat_E" left="25" top="49" right="33" bottom="113"/>
+</TextureAtlas>
